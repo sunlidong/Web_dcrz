@@ -1,0 +1,30 @@
+.login-box {
+    width: 300px;
+    padding: 20px;
+    margin: 10% 0 0 60%;
+    background: #99CCFF;
+    border-radius: 10px;
+    height: 340px
+}
+
+h3 {
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 10px
+}
+
+.login-box input[type="text"],.login-box input[type="password"] {
+    border: 0;
+    background: #e4e6eb;
+    border-radius: 2px;
+    padding: 0 10px;
+    height: 40px;
+    margin: 20px auto
+}
+
+
+#btn192{
+    width: 100%
+}
